@@ -18,4 +18,3 @@ services:
     ports:
       - "7034:80"
     restart: unless-stopped
-    
